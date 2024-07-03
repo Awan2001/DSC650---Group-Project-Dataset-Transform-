@@ -1,5 +1,3 @@
-# DSC650---Group-Project-Dataset-Transform-
-
 # DSC650: DATA TECHNOLOGY AND FUTURE EMERGENCE - Analysis on Food Panda Review on Singapore Restaurant
 Project using Google Colab and Cloudera with Apache Hive for Data Analysis.
 ## Introduction
